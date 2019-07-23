@@ -1,0 +1,3 @@
+[submodule "tinydav&nlp-datasets-expo"]
+	path = .gigantum/datasets/tinydav/nlp-datasets-expo
+	url = https://repo.gigantum.io/tinydav/nlp-datasets-expo.git
