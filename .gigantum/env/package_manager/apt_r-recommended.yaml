@@ -1,0 +1,6 @@
+# Generated on: 2019-07-23 18:43:50.616871
+manager: "apt"
+package: "r-recommended"
+version: "3.6.0-2bionic"
+from_base: true
+schema: 2
