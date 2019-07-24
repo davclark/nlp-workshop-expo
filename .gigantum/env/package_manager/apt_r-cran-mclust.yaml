@@ -1,0 +1,6 @@
+# Generated on: 2019-07-24 16:17:19.456317
+manager: "apt"
+package: "r-cran-mclust"
+version: "5.4.3-1cran1ppabionic0"
+from_base: false
+schema: 2
