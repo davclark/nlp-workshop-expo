@@ -1,6 +1,0 @@
-# Generated on: 2019-07-24 16:13:14.953986
-manager: "apt"
-package: "r-cran-stm"
-version: "1.3.3-3cran1ppa0bionic0"
-from_base: false
-schema: 2
