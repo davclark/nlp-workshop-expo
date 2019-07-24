@@ -35,6 +35,8 @@ The data we'll be using for this unit consists of all articles about women publi
 
 Load the dataset. Notice that we have the text of the articles, along with some metadata.
 
+NOTE - we've moved the data for this section to `input/nlp-datasets-expo/women-articles`. You need to make sure it's downloaded!
+
 ```{r}
 # Load Data
 women <- read.csv('women-full.csv')
