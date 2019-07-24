@@ -1,0 +1,6 @@
+# Generated on: 2019-07-24 16:13:14.952448
+manager: "apt"
+package: "r-cran-matrixstats"
+version: "0.54.0-3cran1ppa0bionic0"
+from_base: false
+schema: 2

@@ -1,0 +1,6 @@
+# Generated on: 2019-07-24 16:13:14.953169
+manager: "apt"
+package: "r-cran-fpc"
+version: "2.1-11-3cran1ppa0bionic0"
+from_base: false
+schema: 2

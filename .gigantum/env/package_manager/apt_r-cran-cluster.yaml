@@ -1,0 +1,6 @@
+# Generated on: 2019-07-24 16:13:14.952825
+manager: "apt"
+package: "r-cran-cluster"
+version: "2.0.8-1bionic0"
+from_base: false
+schema: 2

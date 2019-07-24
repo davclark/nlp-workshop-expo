@@ -1,0 +1,6 @@
+# Generated on: 2019-07-24 16:13:14.954310
+manager: "apt"
+package: "r-cran-lsa"
+version: "0.73.1-3cran2ppa0bionic0"
+from_base: false
+schema: 2

@@ -1,0 +1,6 @@
+# Generated on: 2019-07-24 16:13:14.950896
+manager: "apt"
+package: "r-cran-tm"
+version: "0.7-6-1cran1ppabionic0"
+from_base: false
+schema: 2
